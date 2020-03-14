@@ -1,7 +1,6 @@
 # JP Morgan
 * [JP-Morgan Building](NY City)
-    * [JP Morgan News](Fintech-Proj/file:///D:/JP Morg.jpg)
-
+    * [JP Morgan News](Fintech-Proj/D:/JP Morg.jpg)
 
 ## JP Morgan is on track to create a JPM Coin.
  It is not quite cryptocurrency but includes the difference between bit coin and govenment backed currency.
