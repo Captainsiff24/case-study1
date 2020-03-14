@@ -1,6 +1,6 @@
 # JP Morgan
-[JP-Morgan Building](NY City)
-    * [JP Morgan News](Fintech-Proj/file:///D:/Fintech%20Proj/case-study1/jpmorgan-chase-to-pay-5-million-in-parental-leave-discrimination-settlement-2019-05-31.jpg)
+* [JP-Morgan Building](NY City)
+    * [JP Morgan News](Fintech-Proj/file:///D:/Fintech%20Proj/case-study1/jpmorgan-chase-to-pay-5-million-in-parental-leave-discrimination-settlement-2019-05-31.html)
 
 
 ## JP Morgan is on track to create a JPM Coin.
