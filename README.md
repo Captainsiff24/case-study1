@@ -1,6 +1,6 @@
 # JP Morgan
 * [JP Morgan Building](NY City)
-    * [image](Fintech-Proj/JP-morg.jpg)
+    * [image](Fintech-Proj/file:///D:/Fintech%20Proj/case-study1/jpmorgan-chase-to-pay-5-million-in-parental-leave-discrimination-settlement-2019-05-31.html)
 
 ## JP Morgan is on track to create a JPM Coin.
  It is not quite cryptocurrency but includes the difference between bit coin and govenment backed currency.
